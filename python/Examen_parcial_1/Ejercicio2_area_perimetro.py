@@ -52,4 +52,4 @@ while opcion != 0:
     elif opcion == 0:
         print("saliendo del programa...")
     else:
-        print("Opción no válida :( ")
+        print(" Opción no válida :(  ")
